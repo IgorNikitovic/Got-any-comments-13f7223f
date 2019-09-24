@@ -25,4 +25,5 @@ h3 {
 	font-size: 25px;
 }
 
-textarea {border: solid red}>
+textarea {border: solid red}
+textarea:focus {border: solid lime}
